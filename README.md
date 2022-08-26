@@ -54,9 +54,6 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kevin46dsa&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin46dsa&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GITHUB TROPHY
-[![trophy](https://github-profile-trophy.vercel.app/?username=kevin46dsa&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=kevin46dsa&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)<a  /></a> </p>
-  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="300" height="auto" />
 
 ## TECH STACK 💻
 #### LANGUAGES

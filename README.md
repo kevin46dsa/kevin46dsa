@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <a href="https://leetcode.com/kevin46dsa">
     <img src="https://img.shields.io/badge/Leetcode-red?style=for-the-badge&logo=Leetcode&logoColor=white" alt="Leetcode Badge"/>
   </a>
-  <a href=https://twitter.com/Kevindsaoff">
+  <a href="https://twitter.com/Kevindsaoff">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>

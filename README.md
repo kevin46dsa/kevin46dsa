@@ -56,19 +56,11 @@ Here are some ideas to get you started:
 ![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
-
-#### JS FRAMEWORK / LIBRARY
-![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
                                                                                                                              
-#### CSS FRAMEWORK /LIBRARY /PRE - PROCESSOR
+#### FRAMEWORK /LIBRARY /PRE - PROCESSOR
+![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
 ![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
-
-#### DESIGN/VISUAL TOOLS
-![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
-![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
-![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-000?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 #### DATABASE/STATE
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
@@ -87,6 +79,3 @@ Here are some ideas to get you started:
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
 
-
-### GITHUB GRAPH ⚡
-<a href="https://github.com/kevin46dsa"><img alt="Kevin Dsa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kevin46dsa&custom_title=Kevin's%20Contribution%20Graph&theme=react-dark" /></a>

@@ -48,13 +48,6 @@ Here are some ideas to get you started:
 
 
 
-
-# 📊 GITHUB STATS:
-![](https://github-readme-stats.vercel.app/api?username=kevin46dsa&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kevin46dsa&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin46dsa&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
 ## TECH STACK 💻
 #### LANGUAGES
 
@@ -93,19 +86,6 @@ Here are some ideas to get you started:
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
-
-#### CI/CD
-![CircleCI](https://img.shields.io/badge/-circle%20ci-000?style=for-the-badge&logo=circleci)
-![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
-![Jenkins](https://img.shields.io/badge/-jenkins-000?style=for-the-badge&logo=jenkins)
-
-#### PACKAGE MANAGER
-![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
-![Yarn](https://img.shields.io/badge/-yarn-000?style=for-the-badge&logo=yarn)
-
-#### VERSION CONTROL
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
 
 ### GITHUB GRAPH ⚡

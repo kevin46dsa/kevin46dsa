@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <p align="center">  <b>ϟ</b> I love Creating new things ϟ </b></p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer,;Stevens+Institute+Of+Technology,+Hoboken"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer,;CharacterStrong;Stevens+Institute+Of+Technology,+Hoboken"></a>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=kevin46dsa&color=orange&style=plastic)
